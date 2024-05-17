@@ -1,0 +1,428 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/2ZNFu0hkSVtAI6LRWGIlCPNd1Tj.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 78191,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "You",
+            "overview": "A dangerously charming, intensely obsessive young man goes to extreme measures to insert himself into the lives of those he is transfixed by.",
+            "popularity": 1639.553,
+            "poster_path": "/7bEYwjUvlJW7GerM8GYmqwl4oS3.jpg",
+            "first_air_date": "2018-09-09",
+            "name": "You",
+            "vote_average": 8.063,
+            "vote_count": 2989
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8UVzqlBMG3azowsi7f8lqZwhcBZ.jpg",
+            "genre_ids": [
+                18,
+                10768
+            ],
+            "id": 67026,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Designated Survivor",
+            "overview": "Tom Kirkman, a low-level cabinet member is suddenly appointed President of the United States after a catastrophic attack during the State of the Union kills everyone above him in the Presidential line of succession.",
+            "popularity": 1860.355,
+            "poster_path": "/5R125JAIh1N38pzHp2dRsBpOVNY.jpg",
+            "first_air_date": "2016-09-21",
+            "name": "Designated Survivor",
+            "vote_average": 7.148,
+            "vote_count": 881
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/m1rvaIIrDGwSYMt5mWG1WiTndmE.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 91239,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Bridgerton",
+            "overview": "Wealth, lust, and betrayal set in the backdrop of Regency era England, seen through the eyes of the powerful Bridgerton family.",
+            "popularity": 1956.226,
+            "poster_path": "/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
+            "first_air_date": "2020-12-25",
+            "name": "Bridgerton",
+            "vote_average": 8.1,
+            "vote_count": 2309
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zNW4Bt5JxnIfOSORQNDN0oTXeqR.jpg",
+            "genre_ids": [
+                16,
+                10762
+            ],
+            "id": 87247,
+            "origin_country": [
+                "CA",
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Bakugan",
+            "overview": "Follow the adventures of Dan Kouzo and his best friends: the first kids on Earth to bond with the mysterious creatures known as Bakugan!",
+            "popularity": 1798.572,
+            "poster_path": "/go2IfyqSK7YJ403tvugctEQgjxQ.jpg",
+            "first_air_date": "2018-12-23",
+            "name": "Bakugan",
+            "vote_average": 5.6,
+            "vote_count": 18
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/z8Mg3YVZGd1iSnoDinEAoh9WTck.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 1424,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Orange Is the New Black",
+            "overview": "A crime she committed in her youthful past sends Piper Chapman to a women's prison, where she trades her comfortable New York life for one of unexpected camaraderie and conflict in an eccentric group of fellow inmates.",
+            "popularity": 1486.631,
+            "poster_path": "/ekaa7YjGPTkFLcPhwWXTnARuCEU.jpg",
+            "first_air_date": "2013-07-11",
+            "name": "Orange Is the New Black",
+            "vote_average": 7.672,
+            "vote_count": 2362
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/qsnXwGS7KBbX4JLqHvICngtR8qg.jpg",
+            "genre_ids": [
+                80,
+                18,
+                10759
+            ],
+            "id": 61889,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Marvel's Daredevil",
+            "overview": "Lawyer-by-day Matt Murdock uses his heightened senses from being blinded as a young boy to fight crime at night on the streets of Hell’s Kitchen as Daredevil.",
+            "popularity": 1326.717,
+            "poster_path": "/QWbPaDxiB6LW2LjASknzYBvjMj.jpg",
+            "first_air_date": "2015-04-10",
+            "name": "Marvel's Daredevil",
+            "vote_average": 8.168,
+            "vote_count": 4297
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yJJHPSNLqHcQwZwFhO1dH7pSJ44.jpg",
+            "genre_ids": [
+                16,
+                10765
+            ],
+            "id": 86831,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Love, Death & Robots",
+            "overview": "Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher.",
+            "popularity": 1067.551,
+            "poster_path": "/asDqvkE66EegtKJJXIRhBJPxscr.jpg",
+            "first_air_date": "2019-03-15",
+            "name": "Love, Death & Robots",
+            "vote_average": 8.263,
+            "vote_count": 3086
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/fjEOQhzZk2Or7VYUBeMx5ZIwU95.jpg",
+            "genre_ids": [
+                10765,
+                18
+            ],
+            "id": 38472,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Marvel's Jessica Jones",
+            "overview": "After a tragic ending to her short-lived super hero stint, Jessica Jones is rebuilding her personal life and career as a detective who gets pulled into cases involving people with extraordinary abilities in New York City.",
+            "popularity": 1167.393,
+            "poster_path": "/lwPFyjxAZY6NqHxywgY00Y4MFBx.jpg",
+            "first_air_date": "2015-11-20",
+            "name": "Marvel's Jessica Jones",
+            "vote_average": 7.503,
+            "vote_count": 2192
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/8rK0S1ZWmfF4EqVabdqB9PMIFTS.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 113988,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Dahmer - Monster: The Jeffrey Dahmer Story",
+            "overview": "This series examines the gruesome and horrific true crimes of Jeffrey Dahmer and the systemic failures that enabled one of America’s most notorious serial killers to continue his murderous spree in plain sight for over a decade.",
+            "popularity": 894.18,
+            "poster_path": "/f2PVrphK0u81ES256lw3oAZuF3x.jpg",
+            "first_air_date": "2022-09-21",
+            "name": "Dahmer - Monster: The Jeffrey Dahmer Story",
+            "vote_average": 8.023,
+            "vote_count": 2431
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/30totGPtBLM5ginollLv0sjyglK.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 70573,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "GLOW",
+            "overview": "In 1980s LA, a crew of misfits reinvent themselves as the Gorgeous Ladies of Wrestling.",
+            "popularity": 1097.52,
+            "poster_path": "/aqQlgRgUwVTfbdxe33vfDEMiCa2.jpg",
+            "first_air_date": "2017-06-23",
+            "name": "GLOW",
+            "vote_average": 7.251,
+            "vote_count": 351
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yJjxO44EvaMYeeM9VHXHzdZ1kYL.jpg",
+            "genre_ids": [
+                18
+            ],
+            "id": 1425,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "House of Cards",
+            "overview": "Set in present day Washington, D.C., House of Cards is the story of Frank Underwood, a ruthless and cunning politician, and his wife Claire who will stop at nothing to conquer everything. This wicked political drama penetrates the shadowy world of greed, sex and corruption in modern D.C.",
+            "popularity": 1018.935,
+            "poster_path": "/hKWxWjFwnMvkWQawbhvC0Y7ygQ8.jpg",
+            "first_air_date": "2013-02-01",
+            "name": "House of Cards",
+            "vote_average": 8.025,
+            "vote_count": 2587
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/j5aOOtsJinQtyRaqiB12TTRHdeX.jpg",
+            "genre_ids": [
+                10759,
+                80,
+                18
+            ],
+            "id": 67178,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Marvel's The Punisher",
+            "overview": "A former Marine out to punish the criminals responsible for his family's murder finds himself ensnared in a military conspiracy.",
+            "popularity": 836.534,
+            "poster_path": "/tM6xqRKXoloH9UchaJEyyRE9O1w.jpg",
+            "first_air_date": "2017-11-17",
+            "name": "Marvel's The Punisher",
+            "vote_average": 8.118,
+            "vote_count": 2417
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jjECb6dSFUKXDtryuQk4rkFY7oP.jpg",
+            "genre_ids": [
+                10759,
+                16,
+                10765
+            ],
+            "id": 4194,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Star Wars: The Clone Wars",
+            "overview": "Yoda, Obi-Wan Kenobi, Anakin Skywalker, Mace Windu and other Jedi Knights lead the Grand Army of the Republic against the droid army of the Separatists.",
+            "popularity": 816.9,
+            "poster_path": "/e1nWfnnCVqxS2LeTO3dwGyAsG2V.jpg",
+            "first_air_date": "2008-10-03",
+            "name": "Star Wars: The Clone Wars",
+            "vote_average": 8.466,
+            "vote_count": 1915
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4RttvRiea7C5BaD1YJXpny6nGSx.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 3796,
+            "origin_country": [
+                "CA"
+            ],
+            "original_language": "en",
+            "original_name": "Trailer Park Boys",
+            "overview": "Follow the booze-fueled misadventures of three longtime pals and petty serial criminals who run scams from their Nova Scotia trailer park.",
+            "popularity": 969.604,
+            "poster_path": "/nIcIwVTYcZnW1BDzexGfFO7KmX1.jpg",
+            "first_air_date": "2001-04-22",
+            "name": "Trailer Park Boys",
+            "vote_average": 7.738,
+            "vote_count": 236
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/7sqFEDDmK1hG5m92upolcfQxy7R.jpg",
+            "genre_ids": [
+                10759,
+                10765,
+                18
+            ],
+            "id": 75006,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Umbrella Academy",
+            "overview": "A dysfunctional family of superheroes comes together to solve the mystery of their father's death, the threat of the apocalypse and more.",
+            "popularity": 714.738,
+            "poster_path": "/qhcwrnnCnN8NE1N6XXKHFmveJR9.jpg",
+            "first_air_date": "2019-02-15",
+            "name": "The Umbrella Academy",
+            "vote_average": 8.575,
+            "vote_count": 9139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nzDvr0AkXWTHgvSRVgUVosKVgOh.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 61671,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Unbreakable Kimmy Schmidt",
+            "overview": "When a woman is rescued from a doomsday cult and lands in New York City, she must navigate a world she didn’t think even existed anymore.",
+            "popularity": 863.111,
+            "poster_path": "/eMFHl0HyLg7k04OVeE4xPvT6XhY.jpg",
+            "first_air_date": "2015-03-06",
+            "name": "Unbreakable Kimmy Schmidt",
+            "vote_average": 7.128,
+            "vote_count": 502
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/gD830J0sf5gEeZvzkRVPdGxJmSR.jpg",
+            "genre_ids": [
+                80,
+                18
+            ],
+            "id": 69740,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Ozark",
+            "overview": "A financial adviser drags his family from Chicago to the Missouri Ozarks, where he must launder $500 million in five years to appease a drug boss.",
+            "popularity": 1110.976,
+            "poster_path": "/m73bD8VjibSKuTWg597GQVyVhSb.jpg",
+            "first_air_date": "2017-07-21",
+            "name": "Ozark",
+            "vote_average": 8.209,
+            "vote_count": 2166
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/zymbuoBoL1i94xAOzVJF6IuWLfD.jpg",
+            "genre_ids": [
+                10759,
+                18,
+                35
+            ],
+            "id": 77169,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Cobra Kai",
+            "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+            "popularity": 978.257,
+            "poster_path": "/m7tG5E1EbywuwTsl6hq990So0Bx.jpg",
+            "first_air_date": "2018-05-02",
+            "name": "Cobra Kai",
+            "vote_average": 8.214,
+            "vote_count": 5933
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/aDBRtunw49UF4XmqfyNuD9nlYIu.jpg",
+            "genre_ids": [
+                80,
+                10765
+            ],
+            "id": 63174,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Lucifer",
+            "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+            "popularity": 858.359,
+            "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+            "first_air_date": "2016-01-25",
+            "name": "Lucifer",
+            "vote_average": 8.473,
+            "vote_count": 14347
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/jco0oPYZN7bUDZ0xAmstotXI1gB.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 62320,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Grace and Frankie",
+            "overview": "Elegant, proper Grace and freewheeling, eccentric Frankie are a pair of frenemies whose lives are turned upside down - and permanently intertwined - when their husbands leave them for each other. Together, they must face starting over in their 70s in a 21st century world.",
+            "popularity": 845.184,
+            "poster_path": "/b0ldaLD1rSqg5DMxHBkNFAYIUQP.jpg",
+            "first_air_date": "2015-05-08",
+            "name": "Grace and Frankie",
+            "vote_average": 7.723,
+            "vote_count": 291
+        }
+    ],
+    "total_pages": 105,
+    "total_results": 2098
+}

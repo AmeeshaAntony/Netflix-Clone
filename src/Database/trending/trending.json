@@ -1,0 +1,437 @@
+ {
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/qrGtVFxaD8c7et0jUtaYhyTzzPg.jpg",
+            "id": 823464,
+            "original_title": "Godzilla x Kong: The New Empire",
+            "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence – and our own.",
+            "poster_path": "/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Godzilla x Kong: The New Empire",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                28,
+                12
+            ],
+            "popularity": 6633.896,
+            "release_date": "2024-03-27",
+            "video": false,
+            "vote_average": 7.075,
+            "vote_count": 1533
+        },
+        {
+            "backdrop_path": "/xOMo8BRK7PfcJv9JCnx7s5hj0PX.jpg",
+            "id": 693134,
+            "original_title": "Dune: Part Two",
+            "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+            "poster_path": "/gho58bYmw9juYXmUSHRJKOngJGn.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Dune: Part Two",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "popularity": 1104.453,
+            "release_date": "2024-02-27",
+            "video": false,
+            "vote_average": 8.2,
+            "vote_count": 3902
+        },
+        {
+            "backdrop_path": "/5cCfqeUH2f5Gnu7Lh9xepY9TB6x.jpg",
+            "id": 967847,
+            "original_title": "Ghostbusters: Frozen Empire",
+            "overview": "After the original team developed a top-secret research laboratory to take the shattered ghosts to the next level. But when the discovery of an ancient artifact unleashes an evil force, both new and old must join forces to protect their homeland and save the world from the Second Ice Age... from the very thing that unleashes an unstoppable force from the depths of history. As chaos reigns and pure evil plunges the world into darkness, the Ghostbusters must step forward once again to save humanity from the brink of doom. With two generations of Ghostbusters fighting side by side, the stakes have never been higher. Will they be able to avert the inevitable before everything freezes?",
+            "poster_path": "/e1J2oNzSBdou01sUvriVuoYp0pJ.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Ghostbusters: Frozen Empire",
+            "original_language": "en",
+            "genre_ids": [
+                14,
+                12,
+                35
+            ],
+            "popularity": 958.225,
+            "release_date": "2024-03-20",
+            "video": false,
+            "vote_average": 6.747,
+            "vote_count": 723
+        },
+        {
+            "backdrop_path": "/fypydCipcWDKDTTCoPucBsdGYXW.jpg",
+            "id": 653346,
+            "original_title": "Kingdom of the Planet of the Apes",
+            "overview": "Several generations in the future following Caesar's reign, apes are now the dominant species and live harmoniously while humans have been reduced to living in the shadows. As a new tyrannical ape leader builds his empire, one young ape undertakes a harrowing journey that will cause him to question all that he has known about the past and to make choices that will define a future for apes and humans alike.",
+            "poster_path": "/gKkl37BQuKTanygYQG1pyYgLVgf.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Kingdom of the Planet of the Apes",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12,
+                28
+            ],
+            "popularity": 1939.392,
+            "release_date": "2024-05-08",
+            "video": false,
+            "vote_average": 7.185,
+            "vote_count": 364
+        },
+        {
+            "backdrop_path": "/kNtJFgZPfIBtaRpKcVChL8ULIrS.jpg",
+            "id": 239770,
+            "original_name": "Doctor Who",
+            "overview": "The Doctor and his companion travel across time and space encountering incredible friends and foes.",
+            "poster_path": "/8FHthx4Vu81J4X5BTLhJYK9Gtbs.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "Doctor Who",
+            "original_language": "en",
+            "genre_ids": [
+                10759,
+                18,
+                10765
+            ],
+            "popularity": 418.609,
+            "first_air_date": "2024-05-11",
+            "vote_average": 6.2,
+            "vote_count": 36,
+            "origin_country": [
+                "GB"
+            ]
+        },
+        {
+            "backdrop_path": "/fY3lD0jM5AoHJMunjGWqJ0hRteI.jpg",
+            "id": 940721,
+            "original_title": "ゴジラ-1.0",
+            "overview": "Postwar Japan is at its lowest point when a new crisis emerges in the form of a giant monster, baptized in the horrific power of the atomic bomb.",
+            "poster_path": "/hkxxMIGaiCTmrEArK7J56JTKUlB.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Godzilla Minus One",
+            "original_language": "ja",
+            "genre_ids": [
+                878,
+                27,
+                28
+            ],
+            "popularity": 1546.75,
+            "release_date": "2023-11-03",
+            "video": false,
+            "vote_average": 7.66,
+            "vote_count": 1039
+        },
+        {
+            "backdrop_path": "/oggDSNFgXQFOyEDiG8UG27iXt0R.jpg",
+            "id": 95842,
+            "original_name": "庆余年",
+            "overview": "Zhang Qing, a present-day college student in culture and history major wants to study in professor Ye's postgraduate class, so he decides to write a historical fiction to elaborate his perspective of analyzing ancient literature history with modern concept. In the fiction, Zhang himself acts as a young man Fan Xian with mysterious life who lives in a remote seaside town of Kingdom Qing in his childhood, under the help of a mysterious mentor and a blindfolded watchman. Fan goes to the capital when he grows up, where he experiences plenty of ordeal and temper. Fan persists in adhering the rule of justice and goodness and lives his own glorious life.",
+            "poster_path": "/vlHJfLsduZiILN8eYdN57kHZTcQ.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "Joy of Life",
+            "original_language": "zh",
+            "genre_ids": [
+                18
+            ],
+            "popularity": 463.319,
+            "first_air_date": "2019-11-26",
+            "vote_average": 7.8,
+            "vote_count": 51,
+            "origin_country": [
+                "CN"
+            ]
+        },
+        {
+            "backdrop_path": "/ySgY4jBvZ6qchrxKnBg4M8tZp8V.jpg",
+            "id": 1111873,
+            "original_title": "Abigail",
+            "overview": "A group of criminals kidnaps a teenage ballet dancer, the daughter of a notorious gang leader, in order to obtain a ransom of $50 million, but over time, they discover that she is not just an ordinary girl. After the kidnappers begin to diminish, one by one, they discover, to their increasing horror, that they are locked inside with an unusual girl.",
+            "poster_path": "/7qxG0zyt29BI0IzFDfsps62kbQi.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Abigail",
+            "original_language": "en",
+            "genre_ids": [
+                27,
+                53
+            ],
+            "popularity": 821.264,
+            "release_date": "2024-04-18",
+            "video": false,
+            "vote_average": 6.942,
+            "vote_count": 397
+        },
+        {
+            "backdrop_path": "/5fWxvjOUvtUoSmiMEpFl77V6KZV.jpg",
+            "id": 196322,
+            "original_name": "Dark Matter",
+            "overview": "Jason Dessen is abducted into an alternate version of his life. To get back to his true family, he embarks on a harrowing journey to save them from the most terrifying foe imaginable: himself.",
+            "poster_path": "/c6MRUtPk0nEPQ9FBD9RdRKt2rIm.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "Dark Matter",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                9648,
+                10765
+            ],
+            "popularity": 702.513,
+            "first_air_date": "2024-05-07",
+            "vote_average": 8.078,
+            "vote_count": 33,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/4d0tMAk49gqbVwgvtQjCriBwyb8.jpg",
+            "id": 106379,
+            "original_name": "Fallout",
+            "overview": "The story of haves and have-nots in a world in which there’s almost nothing left to have. 200 years after the apocalypse, the gentle denizens of luxury fallout shelters are forced to return to the irradiated hellscape their ancestors left behind — and are shocked to discover an incredibly complex, gleefully weird, and highly violent universe waiting for them.",
+            "poster_path": "/AnsSKR9LuK0T9bAOcPVA3PUvyWj.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "Fallout",
+            "original_language": "en",
+            "genre_ids": [
+                10765,
+                10759,
+                9648
+            ],
+            "popularity": 564.715,
+            "first_air_date": "2024-04-10",
+            "vote_average": 8.401,
+            "vote_count": 992,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/s5znBQmprDJJ553IMQfwEVlfroH.jpg",
+            "id": 799583,
+            "original_title": "The Ministry of Ungentlemanly Warfare",
+            "overview": "Taking place during World War II, the British Army assigns a group of competent soldiers to carry out a mission against the Nazi forces behind enemy lines... A true story about a secret British World War II organization; the Special Operations Executive. Founded by Winston Churchill, their irregular warfare against the Germans helped to change the course of the war, and gave birth to modern black operations.",
+            "poster_path": "/8aF0iAKH9MJMYAZdi0Slg77RYa2.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "The Ministry of Ungentlemanly Warfare",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                10752,
+                18
+            ],
+            "popularity": 381.449,
+            "release_date": "2024-04-18",
+            "video": false,
+            "vote_average": 7.224,
+            "vote_count": 152
+        },
+        {
+            "backdrop_path": "/vcFW09U4834DyFOeRZpsx9x1D3S.jpg",
+            "id": 57243,
+            "original_name": "Doctor Who",
+            "overview": "The Doctor is a Time Lord: a 900 year old alien with 2 hearts, part of a gifted civilization who mastered time travel. The Doctor saves planets for a living—more of a hobby actually, and the Doctor's very, very good at it.",
+            "poster_path": "/4edFyasCrkH4MKs6H4mHqlrxA6b.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "Doctor Who",
+            "original_language": "en",
+            "genre_ids": [
+                10759,
+                18,
+                10765
+            ],
+            "popularity": 1848.802,
+            "first_air_date": "2005-03-26",
+            "vote_average": 7.513,
+            "vote_count": 2883,
+            "origin_country": [
+                "GB"
+            ]
+        },
+        {
+            "backdrop_path": "/6Xfj8wD7GoEysgcFayRKd6QLqai.jpg",
+            "id": 843527,
+            "original_title": "The Idea of You",
+            "overview": "Solène, a 40-year-old single mom, begins an unexpected romance with 24-year-old Hayes Campbell, the lead singer of August Moon, the hottest boy band on the planet. When Solène must step in to chaperone her teenage daughter's trip to the Coachella Music Festival after her ex bails at the last minute, she has a chance encounter with Hayes and there is an instant, undeniable spark. As they begin a whirlwind romance, it isn't long before Hayes' superstar status poses unavoidable challenges to their relationship, and Solène soon discovers that life in the glare of his spotlight might be more than she bargained for.",
+            "poster_path": "/zDi2U7WYkdIoGYHcYbM9X5yReVD.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "The Idea of You",
+            "original_language": "en",
+            "genre_ids": [
+                10749,
+                35,
+                18
+            ],
+            "popularity": 751.881,
+            "release_date": "2024-05-02",
+            "video": false,
+            "vote_average": 7.503,
+            "vote_count": 712
+        },
+        {
+            "backdrop_path": "/5zmiBoMzeeVdQ62no55JOJMY498.jpg",
+            "id": 126308,
+            "original_name": "Shōgun",
+            "overview": "In Japan in the year 1600, at the dawn of a century-defining civil war, Lord Yoshii Toranaga is fighting for his life as his enemies on the Council of Regents unite against him, when a mysterious European ship is found marooned in a nearby fishing village.",
+            "poster_path": "/7O4iVfOMQmdCSxhOg1WnzG1AgYT.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "Shōgun",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10768
+            ],
+            "popularity": 1202.745,
+            "first_air_date": "2024-02-27",
+            "vote_average": 8.563,
+            "vote_count": 722,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/ovUbhh84qB11B5wzHd01cM07yia.jpg",
+            "id": 138502,
+            "original_name": "X-Men '97",
+            "overview": "The X-Men, a band of mutants who use their uncanny gifts to protect a world that hates and fears them, are challenged like never before, forced to face a dangerous and unexpected new future.",
+            "poster_path": "/9Ycz7yYRf9V4jk3YXwcZhFtbNcF.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "X-Men '97",
+            "original_language": "en",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "popularity": 1986.074,
+            "first_air_date": "2024-03-20",
+            "vote_average": 8.853,
+            "vote_count": 262,
+            "origin_country": [
+                "US"
+            ]
+        },
+        {
+            "backdrop_path": "/lA6KdSkCTxwzvqzPqxch997RabQ.jpg",
+            "id": 560016,
+            "original_title": "Monkey Man",
+            "overview": "Kid is an anonymous young man who ekes out a meager living in an underground fight club where, night after night, wearing a gorilla mask, he is beaten bloody by more popular fighters for cash. After years of suppressed rage, Kid discovers a way to infiltrate the enclave of the city’s sinister elite. As his childhood trauma boils over, his mysteriously scarred hands unleash an explosive campaign of retribution to settle the score with the men who took everything from him.",
+            "poster_path": "/4lhR4L2vzzjl68P1zJyCH755Oz4.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Monkey Man",
+            "original_language": "en",
+            "genre_ids": [
+                28,
+                53
+            ],
+            "popularity": 151.049,
+            "release_date": "2024-04-03",
+            "video": false,
+            "vote_average": 7.2,
+            "vote_count": 371
+        },
+        {
+            "backdrop_path": "/lzWHmYdfeFiMIY4JaMmtR7GEli3.jpg",
+            "id": 438631,
+            "original_title": "Dune",
+            "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+            "poster_path": "/d5NXSklXo0qyIYkgV94XAgMIckC.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Dune",
+            "original_language": "en",
+            "genre_ids": [
+                878,
+                12
+            ],
+            "popularity": 649.159,
+            "release_date": "2021-09-15",
+            "video": false,
+            "vote_average": 7.779,
+            "vote_count": 11615
+        },
+        {
+            "backdrop_path": "/72clA3Tlo9hGY815pubweHOxVAR.jpg",
+            "id": 937287,
+            "original_title": "Challengers",
+            "overview": "Tennis player turned coach Tashi has taken her husband, Art, and transformed him into a world-famous Grand Slam champion. To jolt him out of his recent losing streak, she signs him up for a \"Challenger\" event — close to the lowest level of pro tournament — where he finds himself standing across the net from his former best friend and Tashi's former boyfriend.",
+            "poster_path": "/H6vke7zGiuLsz4v4RPeReb9rsv.jpg",
+            "media_type": "movie",
+            "adult": false,
+            "title": "Challengers",
+            "original_language": "en",
+            "genre_ids": [
+                18,
+                10749
+            ],
+            "popularity": 222.186,
+            "release_date": "2024-04-18",
+            "video": false,
+            "vote_average": 7.4,
+            "vote_count": 495
+        },
+        {
+            "backdrop_path": "/2rmK7mnchw9Xr3XdiTFSxTTLXqv.jpg",
+            "id": 37854,
+            "original_name": "ワンピース",
+            "overview": "Years ago, the fearsome Pirate King, Gol D. Roger was executed leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new King of the Pirates.\n\nMonkey D. Luffy, a boy who consumed a \"Devil Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way.\n\nLuffy will do anything to get the One Piece and become King of the Pirates!",
+            "poster_path": "/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "One Piece",
+            "original_language": "ja",
+            "genre_ids": [
+                10759,
+                35,
+                16
+            ],
+            "popularity": 209.019,
+            "first_air_date": "1999-10-20",
+            "vote_average": 8.728,
+            "vote_count": 4435,
+            "origin_country": [
+                "JP"
+            ]
+        },
+        {
+            "backdrop_path": "/3GQKYh6Trm8pxd2AypovoYQf4Ay.jpg",
+            "id": 85937,
+            "original_name": "鬼滅の刃",
+            "overview": "It is the Taisho Period in Japan. Tanjiro, a kindhearted boy who sells charcoal for a living, finds his family slaughtered by a demon. To make matters worse, his younger sister Nezuko, the sole survivor, has been transformed into a demon herself. Though devastated by this grim reality, Tanjiro resolves to become a “demon slayer” so that he can turn his sister back into a human, and kill the demon that massacred his family.",
+            "poster_path": "/xUfRZu2mi8jH6SzQEJGP6tjBuYj.jpg",
+            "media_type": "tv",
+            "adult": false,
+            "name": "Demon Slayer: Kimetsu no Yaiba",
+            "original_language": "ja",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "popularity": 281.639,
+            "first_air_date": "2019-04-06",
+            "vote_average": 8.7,
+            "vote_count": 6015,
+            "origin_country": [
+                "JP"
+            ]
+        }
+    ],
+    "total_pages": 1000,
+    "total_results": 20000
+}
